@@ -4,6 +4,7 @@
   <h1> Kshitij </h1>
   <hr />
   
+  <img src="https://user-images.githubusercontent.com/50729639/57982676-26ef9880-7a66-11e9-94cf-b8d92af98cc8.jpg" />
  
   <a href="#intro">Intro</a> <br />
   <a href="#thefest">About the Fest</a> <br />
