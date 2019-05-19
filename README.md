@@ -13,7 +13,7 @@
 <a name="intro" />
    <h2>1.Introduction</h2>
    
-   <img src="https://user-images.githubusercontent.com/50729639/57982794-87cba080-7a67-11e9-9206-316f27f10448.jpeg" align="centre" />
+   <img src="https://user-images.githubusercontent.com/50729639/57982794-87cba080-7a67-11e9-9206-316f27f10448.jpeg" align="middle" />
      <p>Kshitij,also called KTJ, is the annual techno management festival of one of India's premier institutions, IIT Kharagpur.Started in 2004, the aim of this fest was to provide the technically inclined youth a national-level platform, to showcase their talents and expertise, and to be recognised and rewarded.Having grown exponentially in the last few years, Kshitij has seen overwhelming participation from the student community all over the world.</p>
   
   <br />
@@ -57,7 +57,7 @@ Obstacles pushing it to extreme limits while the clock ticks</li>
     <li><strong>Stax:</strong> To assemble a bot which adjusts squares of various hues while moving over the stacks utilizing line following.</li>
   </ul>
   
- <img src="https://user-images.githubusercontent.com/50729639/57983031-af703800-7a6a-11e9-918e-0cba48268635.jpg" />
+ <img src="https://user-images.githubusercontent.com/50729639/57983031-af703800-7a6a-11e9-918e-0cba48268635.jpg" align="middle" height="300" width="500" />
  
   
   <a name="sponsors" />
