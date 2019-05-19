@@ -3,6 +3,7 @@
 <body>
   <h1> Kshitij </h1>
   <hr />
+  <a name="top" />
   
   <img src="https://user-images.githubusercontent.com/50729639/57982676-26ef9880-7a66-11e9-94cf-b8d92af98cc8.jpg" />
  
@@ -73,9 +74,13 @@ Obstacles pushing it to extreme limits while the clock ticks</li>
   </ul>
   
   <footer>
+  <h2>5.Footer</h2>
   <a href="https://en.wikipedia.org/wiki/Kshitij">Learn more about Kshitij on Wikipedia</a>
   <br />
   <a href="https://www.facebook.com/ktj.iitkgp/">Visit the Facebook page.</a>
+  <br />
+  <a href="#top">Back to top</a>
+  
 </footer>
 
   </body>
