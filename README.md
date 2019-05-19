@@ -3,6 +3,14 @@
 <body>
   <h1> Kshitij </h1>
   <hr />
+  
+  <div class="topnav">
+  <a class="active" href="#intro">Intro</a>
+  <a href="#thefest">About the Fest</a>
+  <a href="#events">Events</a>
+  <a href="#sponsors">Sponsors</a>
+</div>
+
    <h2>1.Introduction</h2>
      <p>Kshitij,also called KTJ, is the annual techno management festival of one of India's premier institutions, IIT Kharagpur.Started in 2004, the aim of this fest was to provide the technically inclined youth a national-level platform, to showcase their talents and expertise, and to be recognised and rewarded.Having grown exponentially in the last few years, Kshitij has seen overwhelming participation from the student community all over the world.</p>
   
@@ -53,6 +61,7 @@ Obstacles pushing it to extreme limits while the clock ticks</li>
   
   <footer>
   <a href="https://en.wikipedia.org/wiki/Kshitij">Learn more about Kshitij on Wikipedia</a>
+  <br />
   <a href="https://www.facebook.com/ktj.iitkgp/">Visit the Facebook page.</a>
 </footer>
 
