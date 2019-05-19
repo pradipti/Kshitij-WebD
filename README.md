@@ -58,6 +58,7 @@ Obstacles pushing it to extreme limits while the clock ticks</li>
   </ul>
   
  <img src="https://user-images.githubusercontent.com/50729639/57982970-fb6ead00-7a69-11e9-8b33-4af58f5e6d3c.jpg" />
+ 
   
   <a name="sponsors" />
   <h2>4.Event Sponsors</h2>
