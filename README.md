@@ -5,9 +5,8 @@
   <hr />
    <h2>1.Introduction</h2>
      <p>Kshitij,also called KTJ, is the annual techno management festival of one of India's premier institutions, IIT Kharagpur.Started in 2004, the aim of this fest was to provide the technically inclined youth a national-level platform, to showcase their talents and expertise, and to be recognised and rewarded.Having grown exponentially in the last few years, Kshitij has seen overwhelming participation from the student community all over the world.</p>
-  <a href="https://en.wikipedia.org/wiki/Kshitij">Learn more about Kshitij on Wikipedia</a>
+  
   <br />
-  <a href="https://www.facebook.com/ktj.iitkgp/">Visit the Facebook page.</a>
   <h2>2.About the Fest</h2>
   <p>The first edition of this fest held in 2004 was called 'Ideon'.The first fest got an attraction of 260 students from outside IIT Kharagpur.The co-operation has since developed and powered exponentially, and it has now turned into Asia's biggest fest of this sort.</p>
   <p>This three-day fest held in the last few weeks of January, sees workshops from various well-known companies,guest lectures from eminent personalities,robotix events,gaming competitions and various other technology related events.</p>
@@ -29,6 +28,7 @@ skills, where the wheels are bound to surf over uneven contours with minimum spi
 of sand in sandrover. In this participant have to discharge their bots through challenging
 Obstacles pushing it to extreme limits while the clock ticks</li>
    </ol>
+  
   <h3>Robotix Events</h3>
   <ul>
     <li><strong>Robowars:</strong> Build a robot and inspire it in the field to battle and win from different robots</li>
@@ -40,6 +40,21 @@ Obstacles pushing it to extreme limits while the clock ticks</li>
     <li><strong>Stax:</strong> To assemble a bot which adjusts squares of various hues while moving over the stacks utilizing line following.</li>
   </ul>
   
+  <h2>4.Event Sponsors</h2>
+  <ul>
+  <li>NetApp</li>
+  <li>Sterlite Power</li>
+  <li>Siemens</li>
+  <li>Bengal Energy</li>
+  <li>Airbus</li>
+  <li>GE Digital</li>
+  <li>KLA Tencor</li>
+  </ul>
+  
+  <footer>
+  <a href="https://en.wikipedia.org/wiki/Kshitij">Learn more about Kshitij on Wikipedia</a>
+  <a href="https://www.facebook.com/ktj.iitkgp/">Visit the Facebook page.</a>
+</footer>
 
   </body>
 </html/>
